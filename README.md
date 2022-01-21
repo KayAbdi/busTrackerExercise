@@ -1,4 +1,5 @@
 ## Title: realTimeBusTracker
+if you would like to see this project played on the browser click this link https://kayabdi.github.io/busTrackerExercise/, then click the button to start the tracker moving.
 ## Description:
 This is an application that tracks Boston bus locations in real time. we have access to google maps and we also have access to API's for Boston bus data.
 ### How to run:
